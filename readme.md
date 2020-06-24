@@ -14,3 +14,5 @@ Okay
 1. Open index.html in your browser
 
 2. Made some changes in the branch
+
+3. Have fun
